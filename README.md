@@ -58,5 +58,5 @@ The complete project content can be found in my blog post available [here](https
 
 ## Licensing and Acknowledgements<a name="licensing"></a>
 
-Thanks to StatsBomb for providing their open data set via GitHub. The Licensing for the data and other descriptive information can be found at the [StatsBomb Open Data Github space](https://github.com/statsbomb/open-data).
+Thanks to StatsBomb for providing their open data set via GitHub. Licensing and other descriptive information can be found at the [StatsBomb Open Data Github space](https://github.com/statsbomb/open-data).
 
