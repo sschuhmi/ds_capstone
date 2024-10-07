@@ -54,7 +54,7 @@ Here are the additional Python libraries used within this project:
 ## Results and Blog Post <a name="results"></a>
 
 The project focused on predicting results of modern football matches by exploiting statistical analysis data of matches.</br>
-The main findings of the code can be found in my blog post available [here](https://sschuhmi.github.io/2024/10/06/PredictingFootballResults.html) at GitHub pages.
+The complete project content can be found in my blog post available [here](https://sschuhmi.github.io/2024/10/06/PredictingFootballResults.html) at GitHub pages.
 
 ## Licensing and Acknowledgements<a name="licensing"></a>
 
