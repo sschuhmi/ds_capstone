@@ -1,5 +1,7 @@
 ## Capstone Project "Predicting Results of modern Football matches using StatsBomb analysis data and advanced multi-output Machine Learning Regressors"
 
+![football](https://github.com/sschuhmi/sschuhmi.github.io/blob/main/_posts/img/2014-10_Football/Accuracy_vs_test_ratio.png?raw=true)
+
 This project is used as capstone project within Udacity´s Data Scientist Nanodegree Program [nd025](https://www.udacity.com/enrollment/nd025)
 
 ### Table of Contents
