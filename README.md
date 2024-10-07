@@ -5,11 +5,11 @@ This project is included within Udacity´s Data Scientist Nanodegree Program.
 ### Table of Contents
  
 1. [Project Motivation](#motivation)
-2. [Survey Data](#surveydata)
+2. [StatsBomb Open Data](#surveydata)
 3. [Provided Files](#files)
-4. [Installation](#installation)
+4. [Installation & Libraries](#installation)
 5. [Results](#results)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
+6. [Licensing and Acknowledgements](#licensing)
 
 ## Project Motivation <a name="motivation"></a>
 
@@ -56,7 +56,7 @@ Here are the additional Python libraries used within this project:
 The project focused on predicting results of modern football matches by exploiting statistical analysis data of matches.</br>
 The main findings of the code can be found in my blog post available [here](https://sschuhmi.github.io/2024/10/06/PredictingFootballResults.html) at GitHub pages.
 
-## Licensing, Acknowledgements<a name="licensing"></a>
+## Licensing and Acknowledgements<a name="licensing"></a>
 
 Thanks to StatsBomb for providing their open data set via GitHub. The Licensing for the data and other descriptive information can be found at the [StatsBomb Open Data Github space](https://github.com/statsbomb/open-data).
 
