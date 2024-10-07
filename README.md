@@ -8,7 +8,7 @@ This project was created as capstone project within Udacity´s Data Scientist Na
 2. [StatsBomb Open Data](#surveydata)
 3. [Provided Files](#files)
 4. [Installation & Libraries](#installation)
-5. [Results](#results)
+5. [Results and Blog Post](#results)
 6. [Licensing and Acknowledgements](#licensing)
 
 ## Project Motivation <a name="motivation"></a>
@@ -51,7 +51,7 @@ Here are the additional Python libraries used within this project:
   <li>scikit-learn==1.0.1</li>
 </ol>
 
-## Results <a name="results"></a>
+## Results and Blog Post <a name="results"></a>
 
 The project focused on predicting results of modern football matches by exploiting statistical analysis data of matches.</br>
 The main findings of the code can be found in my blog post available [here](https://sschuhmi.github.io/2024/10/06/PredictingFootballResults.html) at GitHub pages.
