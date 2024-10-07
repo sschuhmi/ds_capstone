@@ -1,6 +1,6 @@
 ## Capstone Project "Predicting Results of modern Football matches using StatsBomb analysis data and advanced multi-output Machine Learning Regressors"
 
-This project is included within Udacity´s Data Scientist Nanodegree Program.
+This project was created as capstone project within Udacity´s Data Scientist Nanodegree Program [nd025](https://www.udacity.com/enrollment/nd025)
 
 ### Table of Contents
  
